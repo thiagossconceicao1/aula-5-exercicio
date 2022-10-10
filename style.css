@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Silkscreen&display=swap');
+
+
+body{
+
+    font-family: 'Silkscreen', cursive;
+    font-size: 15px;
+    line-height: 20px;
+    text-align: left;
+}
+
+
+.container { 
+    border: 10px red double;
+    padding: 20px 15px 10px 5px;
+    margin: 20px 15px 10px 5px;
+
+}
+
+.box{
+border: 10px black solid;
+padding: 20px 15px 10px 5px;
+margin: 20px 15px 10px 5px;
+width: 50%;
+
+}

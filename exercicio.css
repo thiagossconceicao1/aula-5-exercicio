@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&family=Silkscreen&display=swap');
+
+body{
+    
+    font-family: 'Silkscreen', cursive;
+    margin: 40px 320px;
+    
+}
+
+.blog{
+    background-color: aqua;
+}
+
+.cordadata{
+    color: lightblue;
+}
+.texto{
+    margin: 10px;
+}
+.paragrafo{
+    margin: 10px';
+}
